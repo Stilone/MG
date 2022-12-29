@@ -1,0 +1,219 @@
+body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.App {
+    display: flex;
+    position: relative;
+    height: 100vh;
+    background-color: white;
+    overflow: hidden;
+}
+
+.SideBar {
+    padding: 60px 30px;
+    min-width: 200px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #d8e7f2;
+}
+
+.Logo {
+    margin-bottom: 60px;
+    width: 95px;
+    height: 93px;
+    background-color: #317ed9;
+}
+
+.Button {
+    margin-top: 12px;
+    background-color: #317ed9;
+    width: 213px;
+    height: 29px;
+}
+
+.Button:hover {
+    background-color: rgb(116, 175, 218);
+}
+
+.Button:active {
+    background-color: #91c7e5;
+}
+
+.ButtonActive {
+    margin-top: 12px;
+    background-color: #91c7e5;
+    width: 213px;
+    height: 29px;
+}
+
+.Main {
+    width: 100%;
+    padding: 0 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.Container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    margin: 78.91px 0 74.12px 0;
+}
+
+.Header-title {
+    height: 39px;
+    width: 236px;
+    background-color: #91c7e5;
+}
+
+.Header-text {
+    margin-top: 17px;
+    height: 19px;
+    width: 370px;
+    background-color: #d8e8f1;
+}
+
+.Content {
+    margin-top: 50px;
+}
+
+.Content-cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Card {
+    width: 30%;
+}
+
+.Card-img {
+    height: 142px;
+    width: 100%;
+    background-color: #d8e8f1;
+}
+
+.Card-title {
+    margin-top: 16px;
+    height: 16px;
+    width: 100%;
+    background-color: #317ed9;
+}
+
+.Card-text {
+    margin-top: 11px;
+    height: 16px;
+    width: 100%;
+    background-color: #d8e8f1;
+}
+
+.Content-text {
+    margin-top: 45px;
+}
+
+.Content-title {
+    height: 19.51px;
+    width: 193.34px;
+    background-color: #91c7e5;
+}
+
+.Content-description {
+    margin-top: 17px;
+    height: 16.72px;
+    width: 100%;
+    background-color: #d8e8f1;
+}
+
+.Content-description:nth-child(2n) {
+    margin-top: 24px;
+}
+
+.Footer {
+    margin-top: 57px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Footer-img {
+    height: 80.81px;
+    width: 139.5px;
+    background-color: #d8e8f1;
+}
+
+.Header-heading {
+    height: 39px;
+    width: 370px;
+    background-color: #91c7e5;
+}
+
+.Header-description {
+    margin-top: 17px;
+    height: 19px;
+    width: 236px;
+    background-color: #d8e8f1;
+}
+
+.Sections {
+    max-width: 640px;
+    height: 41px;
+    margin-top: 41px;
+    display: flex;
+    gap: 10px;
+}
+
+.Section {
+    width: 26%;
+    height: 41.22px;
+    background-color: #d0e2ec;
+}
+
+.Section:hover {
+    background-color: #e6f2f9;
+}
+.SectionActive {
+    width: 26%;
+    height: 41.22px;
+    background-color: #e6f2f9;
+}
+
+.Label {
+    position: relative;
+}
+
+.Section-content {
+    padding: 47px;
+    width: 85%;
+    background-color: #e6f2f9;
+}
+
+.Content-name {
+    background-color: #ffffff;
+    width: 100%;
+    height: 38px;
+}
+
+.Content-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.List {
+    margin-top: 24px;
+    background-color: #ffffff;
+    width: 46%;
+    height: 38px;
+}
+
+.Content-button {
+    margin: 40px 0 0 76%;
+    width: 24%;
+    height: 39px;
+    background-color: #317ed9;
+}
