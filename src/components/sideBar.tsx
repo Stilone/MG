@@ -13,7 +13,7 @@ export const SideBar = () => {
             />
             <Link
                 className={urlArrey === "page-2" ? "ButtonActive" : "Button"}
-                to="page-2/section-1"
+                to="page-2"
             />
             <div className={"Button"} />
             <div className={"Button"} />

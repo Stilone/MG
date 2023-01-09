@@ -17,9 +17,9 @@ export const App = () => {
                 <div className={"Main"}>
                     <AnimatePresence exitBeforeEnter>
                         <Routes location={location} key={locationArr[1]}>
-                            <Route path="page-1" element={<Page1 />} />
+                            <Route path="/*" element={<Page1 />} />
                             <Route
-                                path="page-2/*"
+                                path="page-2"
                                 element={
                                     <Page2 />
                                 }
