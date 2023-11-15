@@ -54,4 +54,4 @@ In summary, integrating animations into a project not only enhances the user exp
 
 Happy reading! 📚😊✨
 
-<img align="left" height="280" width="355" alt="" src="https://media.giphy.com/media/QAIB3wwvcS5RvmwZI4/giphy-downsized-large.gif"/>
+<img align="left" height="480" width="355" alt="" src="https://media.giphy.com/media/QAIB3wwvcS5RvmwZI4/giphy-downsized-large.gif"/>
