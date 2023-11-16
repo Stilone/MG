@@ -20,8 +20,11 @@ To run the application locally, follow these simple steps:
 
 ## How to Run the Project
 
-You can either follow the link https://stilone.github.io/MG/
-or expand the project your computer:
+You can either follow the link:
+ 
+🌐 https://stilone.github.io/MG/ 🌐
+
+Or expand the project your computer:
 
 1. Clone the repository: `git clone https://github.com/Stilone/MG.git`
 2. Navigate to the project directory: `cd MG`
