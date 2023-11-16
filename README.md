@@ -36,7 +36,7 @@ Or expand the project your computer:
 ![image](https://github.com/Stilone/MG/assets/54247765/c63b7529-64c0-44f7-ac50-0a650d5a585e)
 
 ## Description:
-# Animations in Projects: Why They Matter! 🌟
+### Animations in Projects: Why They Matter! 🌟
 
 Animations play a crucial role in every project for several reasons:
 
