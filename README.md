@@ -10,12 +10,12 @@ Variants and Transitions: Leveraging Framer Motion's variants and transition fea
 
 Interactive Components: Designing components that respond to user interactions with fluid and engaging animations, contributing to an enhanced user experience.
 
-## Technologies Used
+## Technologies Used:
 - **webpack** 💻
 - **framer-motion** 🎨
 - **TypeScript** 📝
 
-## Getting Started
+## Getting Started:
 To run the application locally, follow these simple steps
 
 You can either follow the link:
@@ -29,7 +29,7 @@ Or expand the project your computer:
 3. Install dependencies: `npm install`
 4. Start the project: `npm start`
 
-## Scrinchots
+## Scrinchots:
 ### Main Page
 ![image](https://github.com/Stilone/MG/assets/54247765/c63b7529-64c0-44f7-ac50-0a650d5a585e)
 
