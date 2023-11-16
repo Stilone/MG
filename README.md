@@ -17,6 +17,7 @@ Interactive Components: Designing components that respond to user interactions w
 
 ## Getting Started:
 To run the application locally, follow these simple steps.
+
 You can either follow the link:
  
 🌐 https://stilone.github.io/MG/ 🌐
