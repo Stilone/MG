@@ -16,9 +16,7 @@ Interactive Components: Designing components that respond to user interactions w
 - **TypeScript** 📝
 
 ## Getting Started
-To run the application locally, follow these simple steps:
-
-## How to Run the Project
+To run the application locally, follow these simple steps
 
 You can either follow the link:
  
