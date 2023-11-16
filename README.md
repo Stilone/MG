@@ -31,7 +31,8 @@ Or expand the project your computer:
 3. Install dependencies: `npm install`
 4. Start the project: `npm start`
 
-### Main Page
+### Scrinchots
+# Main Page
 ![image](https://github.com/Stilone/MG/assets/54247765/c63b7529-64c0-44f7-ac50-0a650d5a585e)
 
 ## Description:
